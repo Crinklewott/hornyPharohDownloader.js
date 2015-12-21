@@ -25,14 +25,9 @@ Depending on your browser, ensure you have the proper extensions
 installed as detailed in Requirements. (If you need any, of course..!)
 
 ** Firefox
-1) Copy the full contents of [[https://raw.githubusercontent.com/thingywhat/hornyPharohDownloader.js/master/hornyPharohDownloader.user.js][hornyPharohDownloader.user.js]].
-   (Greasemonkey lets you add new scripts from your clipboard)
-2) Click the down arrow on the Greasemonkey icon on your
-   installation. This should pop up a drop-down menu
-3) Click "New User Script"
-4) Click "Use Script From Clipboard"
-5) Click "Save" on the dialog that pops up with the script
-6) Viola! You now have Spanking Tube download links
+1) Visit [[https://raw.githubusercontent.com/thingywhat/hornyPharohDownloader.js/master/hornyPharohDownloader.user.js][hornyPharohDownloader.user.js]] with Firefox.
+2) Allow the install of the script.
+3) Poof! You can now download videos from Horny Pharoh.
 
 ** Opera 10-12.5
 1) Visit [[https://raw.githubusercontent.com/thingywhat/hornyPharohDownloader.js/master/hornyPharohDownloader.user.js][hornyPharohDownloader.user.js]].
